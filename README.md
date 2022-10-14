@@ -1,2 +1,2 @@
 # aws
-Curso sobre Amazon AWS
+Conceitos do curso sobre Amazon AWS e SageMaker
